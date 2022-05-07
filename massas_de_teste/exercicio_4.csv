@@ -1,0 +1,4 @@
+lado_da_base;altura_inclinada;resultado_esperado;tipo_teste
+2;10;44;positivo
+2;-5;um ou ambos os valores do lado_da_base e da altura_inclinada sao zero ou negativos;negativo
+0;3;um ou ambos os valores do lado_da_base e da altura_inclinada sao zero ou negativos;negativo
